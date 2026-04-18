@@ -33,16 +33,13 @@ This project was developed as a **real-world production application**, demonstra
 ## 📱 App Preview
 
 ### 🏠 Home Dashboard
-![Home](assets/mockups/home.png)
+![Home](screenshots/01_home.jpeg)
 
-### 🔍 Credential Management
-![Management](assets/mockups/analysis.png)
+### 🔍 Perfil Management
+![Management](screenshots/04_profile.jpeg)
 
-### 📊 Secure Backup System
-![Backup](assets/mockups/result.png)
-
-### 🚨 Security Notification
-![Notification](assets/mockups/notification.png)
+### 📊 About
+![Backup](screenshots/07_about.jpeg)
 
 ---
 
