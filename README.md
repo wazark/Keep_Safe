@@ -1,35 +1,130 @@
-# KeepSafe 🔐
+# 🔐 KeepSafe – Secure Credential Manager
 
-Secure Credential Manager (Android & Windows)
+Production-ready application designed to securely store and manage sensitive data such as passwords, credentials, and confidential information.
 
-KeepSafe is a production-ready application focused on secure credential storage, authentication, and data protection.
+Built with a strong focus on **security, performance, and user experience**.
 
-## 🚀 Features
-- Encrypted credential storage (AES-GCM)
-- Secure authentication system
-- Cloud synchronization
-- Local encrypted backups
-- Cross-platform support (Android & Windows)
+---
 
-## 🧠 Architecture
-- Frontend: Flutter
-- Backend: Python
-- Database: PostgreSQL
-- Security: bcrypt, PBKDF2, TLS
+## 🧠 Overview
 
-## 🔐 Security Approach
-Security is a core aspect of KeepSafe:
-- Password hashing with bcrypt
-- Key derivation with PBKDF2
-- AES-GCM encryption for sensitive data
-- Secure transport via HTTPS/TLS
+KeepSafe is a cross-platform application that allows users to safely manage sensitive information using modern encryption techniques.
 
-## 📱 Screenshots
-(images here)
+This project was developed as a **real-world production application**, demonstrating:
 
-## ⚠️ Note
-This repository showcases the architecture and product design.  
-The full source code is private due to security considerations.
+- Full-stack architecture design
+- Secure data handling
+- Encryption best practices
+- Scalable system design
 
-## 📦 Production
-👉 https://play.google.com/store/apps/details?id=com.orbytek.keepsafe
+---
+
+## 🚀 Key Features
+
+- 🔐 Encrypted credential storage
+- 🔑 Secure authentication system
+- ☁️ Cloud synchronization
+- 💾 Local encrypted backups
+- ⚡ Fast and responsive UI
+- 🧠 User-friendly experience
+
+---
+
+## 📱 App Preview
+
+### 🏠 Home Dashboard
+![Home](assets/mockups/home.png)
+
+### 🔍 Credential Management
+![Management](assets/mockups/analysis.png)
+
+### 📊 Secure Backup System
+![Backup](assets/mockups/result.png)
+
+### 🚨 Security Notification
+![Notification](assets/mockups/notification.png)
+
+---
+
+## 🏗️ Architecture
+
+The system follows a full-stack architecture:
+
+- **Frontend:** Flutter (Android & Windows)
+- **Backend:** PostgreSQL
+- **Security Layer:** Encryption + Authentication
+
+---
+
+## 🔐 Security
+
+Security is a core pillar of this application.
+
+Implemented techniques include:
+
+- 🔑 PBKDF2 (password hashing)
+- 🔒 AES-GCM (data encryption)
+- 🔐 bcrypt (authentication security)
+- 🌐 TLS (secure communication)
+
+👉 Sensitive implementation details are intentionally not exposed.
+
+---
+
+## 🧪 Technical Highlights
+
+- Designed from scratch as a production system
+- Focus on scalability and performance
+- Secure local and cloud data handling
+- Clean architecture principles applied
+
+---
+
+## 🗺️ Roadmap
+
+- [x] Core system implementation
+- [x] Encryption and authentication
+- [x] Backup system
+- [x] Initial deployment
+- [ ] Advanced sync improvements
+- [ ] Multi-device optimization
+- [ ] Enhanced UX features
+
+---
+
+## 🚧 Status
+
+✅ Production-ready core  
+🚧 Continuous improvements in progress  
+
+---
+
+## 📌 Why This Project
+
+This project demonstrates the ability to:
+
+- Build secure applications from scratch
+- Design real-world systems
+- Apply modern security practices
+- Deliver production-ready software
+
+---
+
+## 👨‍💻 Author
+
+Developed by **Diony Costa**
+
+- LinkedIn: https://www.linkedin.com/in/diony-silva-costa-77b9a3225
+- Email: dev.diony.costa@gmail.com
+
+---
+
+## ⚠️ Disclaimer
+
+This repository intentionally omits:
+
+- Full backend logic
+- Sensitive security implementations
+- Production infrastructure details
+
+This ensures system integrity while maintaining transparency.
