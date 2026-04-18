@@ -32,14 +32,27 @@ This project was developed as a **real-world production application**, demonstra
 
 ## 📱 App Preview
 
-### 🏠 Home Dashboard
-![Home](screenshots/01_home.jpeg)
+<p align="center">
+  <img src="screenshots/02_home.jpeg" width="250"/>
+</p>
 
-### 🔍 Perfil Management
-![Management](screenshots/04_profile.jpeg)
+<p align="center"><b>🏠 Home Dashboard</b></p>
 
-### 📊 About
-![Backup](screenshots/07_about.jpeg)
+
+
+<p align="center">
+  <img src="screenshots/04_profile.jpeg" width="250"/>
+</p>
+
+<p align="center"><b>🔍 Perfil Management</b></p>
+
+
+
+<p align="center">
+  <img src="screenshots/07_about.jpeg" width="250"/>
+</p>
+
+<p align="center"><b>📊 About</b></p>
 
 ---
 
